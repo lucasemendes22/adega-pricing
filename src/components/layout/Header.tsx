@@ -15,7 +15,7 @@ interface HeaderProps {
 }
 
 export function Header({ activeTab }: HeaderProps) {
-  const { config } = useApp();
+  const { config, syncing } = useApp();
 
   return (
     <header className="h-16 border-b border-border bg-surface/80 backdrop-blur-md flex items-center justify-between px-6 sticky top-0 z-20">
@@ -29,8 +29,17 @@ export function Header({ activeTab }: HeaderProps) {
 
       <div className="hidden md:flex items-center gap-4">
         <div className="flex items-center gap-2 text-xs text-text-muted">
-          <div className="w-2 h-2 rounded-full bg-emerald animate-pulse" />
-          Dados salvos localmente
+          {syncing ? (
+            <>
+              <div className="w-2 h-2 rounded-full bg-gold-400 animate-pulse" />
+              Sincronizando...
+            </>
+          ) : (
+            <>
+              <div className="w-2 h-2 rounded-full bg-emerald" />
+              Conectado ao Supabase
+            </>
+          )}
         </div>
       </div>
     </header>

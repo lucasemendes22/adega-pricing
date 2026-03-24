@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { AppProvider } from './context/AppContext';
+import { AppProvider, useApp } from './context/AppContext';
 import { Sidebar } from './components/layout/Sidebar';
 import { Header } from './components/layout/Header';
 import { Dashboard } from './pages/Dashboard';
@@ -9,10 +9,25 @@ import { MarginAnalysis } from './pages/MarginAnalysis';
 import { PriceSimulator } from './pages/PriceSimulator';
 import { NewProductCalculator } from './pages/NewProductCalculator';
 import type { TabId } from './types';
+import { Wine } from 'lucide-react';
 
 function AppContent() {
   const [activeTab, setActiveTab] = useState<TabId>('dashboard');
   const [sidebarOpen, setSidebarOpen] = useState(false);
+  const { loading } = useApp();
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-bg flex items-center justify-center">
+        <div className="text-center animate-fade-in">
+          <div className="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center shadow-lg shadow-gold-500/20 mb-4">
+            <Wine size={28} className="text-bg" />
+          </div>
+          <p className="text-text-secondary text-sm">Carregando dados...</p>
+        </div>
+      </div>
+    );
+  }
 
   const renderPage = () => {
     switch (activeTab) {
