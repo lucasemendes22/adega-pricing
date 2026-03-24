@@ -14,9 +14,18 @@ const CATEGORY_COLORS: Record<string, string> = {
   Vinhos: '#9b3d4a',
   Cervejas: '#d4a843',
   Destilados: '#b8922e',
+  Cachacas: '#7a611c',
+  Drinks: '#38bdf8',
+  Doses: '#a78bfa',
+  Kits: '#f97316',
+  Energeticos: '#22d3ee',
+  'Bebidas Nao Alcoolicas': '#6ee7b7',
   Salgadinhos: '#34d399',
-  Carnes: '#fb7185',
-  Outros: '#38bdf8',
+  Churrasco: '#fb7185',
+  Tabacaria: '#94a3b8',
+  Acessorios: '#e879f9',
+  Promocoes: '#fbbf24',
+  Outros: '#64748b',
 };
 
 export function Dashboard() {

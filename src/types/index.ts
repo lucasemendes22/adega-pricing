@@ -9,8 +9,17 @@ export const ProductCategory = {
   VINHOS: 'Vinhos',
   CERVEJAS: 'Cervejas',
   DESTILADOS: 'Destilados',
+  CACHACAS: 'Cachacas',
+  DRINKS: 'Drinks',
+  DOSES: 'Doses',
+  KITS: 'Kits',
+  ENERGETICOS: 'Energeticos',
+  BEBIDAS_NAO_ALCOOLICAS: 'Bebidas Nao Alcoolicas',
   SALGADINHOS: 'Salgadinhos',
-  CARNES: 'Carnes',
+  CHURRASCO: 'Churrasco',
+  TABACARIA: 'Tabacaria',
+  ACESSORIOS: 'Acessorios',
+  PROMOCOES: 'Promocoes',
   OUTROS: 'Outros',
 } as const;
 export type ProductCategory = (typeof ProductCategory)[keyof typeof ProductCategory];

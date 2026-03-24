@@ -1,0 +1,2490 @@
+[
+  {
+    "name": "Whisky Jack James 900ml Dark Berry",
+    "category": "Destilados",
+    "original_category": "Whisky Jack James",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Doses Whisky Jack James",
+    "category": "Destilados",
+    "original_category": "Whisky Jack James",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Whisky Jack James 900ml  Maça Verde",
+    "category": "Destilados",
+    "original_category": "Whisky Jack James",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Whisky Jack James 900ml Mel e Limão",
+    "category": "Destilados",
+    "original_category": "Whisky Jack James",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Cachaça cabaré prata",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Saque Sakai",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 26.0,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Duelo Morango",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Cachaça Cabaré",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 320.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Canelinha da Rocha 275ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 18
+  },
+  {
+    "name": "Pitu 965ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 14.0,
+    "unit": "un",
+    "stock": 10
+  },
+  {
+    "name": "DomecQ 1L",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 55.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Duelo Blue",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "51  965ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 14.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Seleta prata",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 35.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Pitu 710ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 33
+  },
+  {
+    "name": "Kariri 960ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 19.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Dreher 900ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 26.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Campari 998ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 58.0,
+    "unit": "un",
+    "stock": 11
+  },
+  {
+    "name": "Ypioca",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Groselha Cachoeira 920ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Duelo Pessego",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Canelinha da Rocha 900ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 17
+  },
+  {
+    "name": "Paratudo 900ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 16.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Tequila José Cuervo",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 115.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "José Cuervo Prata",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 115.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Pitu Limão 350ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 6.0,
+    "unit": "un",
+    "stock": 50
+  },
+  {
+    "name": "Malibu",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 58.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Pitu Caju 350ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Tequiloka 1L",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 22.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Pitu Limão 965ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Corote Blueberry",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 6.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Duelo Maracujá",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Cachaça Do Barril 500ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 13
+  },
+  {
+    "name": "Seleta Ouro",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 35.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Duelo Melancia",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Aperol",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 50.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Montila cristal",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 35.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Pitu 350ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 6.0,
+    "unit": "un",
+    "stock": 66
+  },
+  {
+    "name": "Pitu 473ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 8.5,
+    "unit": "un",
+    "stock": 22
+  },
+  {
+    "name": "Pitu mel e limão 350ml",
+    "category": "Cachacas",
+    "original_category": "Cachaça",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 58
+  },
+  {
+    "name": "Caneca Stanley 710ml",
+    "category": "Acessorios",
+    "original_category": "Linha Stanley",
+    "selling_price": 65.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Stanley fonte certa",
+    "category": "Acessorios",
+    "original_category": "Linha Stanley",
+    "selling_price": 50.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Dose de Gin",
+    "category": "Doses",
+    "original_category": "Doses",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Dose de Vodka",
+    "category": "Doses",
+    "original_category": "Doses",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Dose de Whisky",
+    "category": "Doses",
+    "original_category": "Doses",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Shot Ballena Coco",
+    "category": "Doses",
+    "original_category": "Shot's",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Shot Licor Bardêra Avelã",
+    "category": "Doses",
+    "original_category": "Shot's",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Shot Licor Japira Melancia",
+    "category": "Doses",
+    "original_category": "Shot's",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Shot Licor Don Luiz",
+    "category": "Doses",
+    "original_category": "Shot's",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Vinho Sangue de Boi 4L",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 85.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Vinho Don Nogueira seco",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Vinho Santomé seco",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Catuaba Açaí Selvagem",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 17.5,
+    "unit": "un",
+    "stock": 18
+  },
+  {
+    "name": "Catuaba Selvagem",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 17.5,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Vinho Rosé Piscine 750ml",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 80.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Vinho Don Nogueira Branco",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Jurupinga Dinalle",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Vinho Pérgola Suave 1L",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 18
+  },
+  {
+    "name": "Vinho Pérgola Seco 750ml",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Vinho de mesa Don Nogueira suave 900ml",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Cantinho do Vale 880ml",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 5.5,
+    "unit": "un",
+    "stock": 41
+  },
+  {
+    "name": "Vinho pérgola seco",
+    "category": "Vinhos",
+    "original_category": "Vinho",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Japira Menta",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Japira Pessego",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Japira Maça",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Japira Cajuzinho 935 ml",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Japira Abacaxi",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Japira Melancia 935ml",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Japira Limão",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Japira Bananinha 935ml",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Bob Pinga 975 ml",
+    "category": "Destilados",
+    "original_category": "Bob Pinga",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Cigarros",
+    "category": "Tabacaria",
+    "original_category": "Tabacaria",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Headshop",
+    "category": "Tabacaria",
+    "original_category": "Tabacaria",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Tudo para Narguilé",
+    "category": "Tabacaria",
+    "original_category": "Tabacaria",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Baralho Copag 139",
+    "category": "Tabacaria",
+    "original_category": "Tabacaria",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Boné Raw",
+    "category": "Tabacaria",
+    "original_category": "Tabacaria",
+    "selling_price": 150.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Narguilé Alfarid Pequeno",
+    "category": "Tabacaria",
+    "original_category": "Tabacaria",
+    "selling_price": 150.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Narguilé Alfarid Grande",
+    "category": "Tabacaria",
+    "original_category": "Tabacaria",
+    "selling_price": 250.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Monster",
+    "category": "Energeticos",
+    "original_category": "Energético & Gelo",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Energético Vibe & Baly",
+    "category": "Energeticos",
+    "original_category": "Energético & Gelo",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mister Hemp",
+    "category": "Energeticos",
+    "original_category": "Energético & Gelo",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Frutas e Especiarias Gin",
+    "category": "Energeticos",
+    "original_category": "Energético & Gelo",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Gelos",
+    "category": "Energeticos",
+    "original_category": "Energético & Gelo",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Redbull",
+    "category": "Energeticos",
+    "original_category": "Energético & Gelo",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espeto de Coração",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 29.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espeto de Panceta Suina",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 28.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Kit Churrasco 1 serve até 5 pessoas",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 107.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espetos de Carne 1kg (10 unidades)",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 52.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Kit Churrasco 4 serve até 12 pessoas",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 225.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espetos Kaft com queijo 500g (5 unidades)",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espetos de Linguiça 500g (5 unidades)",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 18.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espetos de medalhão 500g (5 unidades)",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 35.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espetos de Frango com Bacon 1kg (10 unidades)",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 43.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espetos de Picanha 500g (5 unidades",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 59.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espetos de Frango 500g (5 unidades)",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 23.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Pão de alho Santa Massa",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 15.6,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Caixa Cooler",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 19.9,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Kit Churrasco 2 serve até 7 pessoas",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 155.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Kit Churrasco 3 serve até 10 pessoas",
+    "category": "Churrasco",
+    "original_category": "Área do churrasco",
+    "selling_price": 205.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Smirnoff Ice Frutas Tropicas",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 9.0,
+    "unit": "un",
+    "stock": 49
+  },
+  {
+    "name": "Skol Beats Gt Long neck",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.5,
+    "unit": "un",
+    "stock": 48
+  },
+  {
+    "name": "Skol Beats Green mix Frutas verdes",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Skol Beats Red mix Long neck",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.5,
+    "unit": "un",
+    "stock": 35
+  },
+  {
+    "name": "51 ice maça verde",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "51 ice melancia",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 46
+  },
+  {
+    "name": "Smirnoff Ice Framboesa",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 9.0,
+    "unit": "un",
+    "stock": 21
+  },
+  {
+    "name": "Skol Beats Senses Long neck",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.5,
+    "unit": "un",
+    "stock": 55
+  },
+  {
+    "name": "51 Ice Kiwi",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 68
+  },
+  {
+    "name": "51 Ice Limão",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 19
+  },
+  {
+    "name": "Smirnoff Ice",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 8.5,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Beats Green Frutas Verdes",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.5,
+    "unit": "un",
+    "stock": 37
+  },
+  {
+    "name": "51 Ice Morango e Laranja",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 118
+  },
+  {
+    "name": "51 Ice Maracujá",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 63
+  },
+  {
+    "name": "Smirnoff Ice Maçã verde",
+    "category": "Cervejas",
+    "original_category": "Skol Beats e Ice",
+    "selling_price": 9.0,
+    "unit": "un",
+    "stock": 37
+  },
+  {
+    "name": "Drink Malibu",
+    "category": "Drinks",
+    "original_category": "Drinks Prontos",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Jack Daniel´s & coca cola",
+    "category": "Drinks",
+    "original_category": "Drinks Prontos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Jack Daniel´s mel & Limonada",
+    "category": "Drinks",
+    "original_category": "Drinks Prontos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Xeque mate",
+    "category": "Drinks",
+    "original_category": "Drinks Prontos",
+    "selling_price": 9.0,
+    "unit": "un",
+    "stock": 24
+  },
+  {
+    "name": "Mascate Drink Maracujá",
+    "category": "Drinks",
+    "original_category": "Drinks Prontos",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Mascate Drink Melancia e Framboesa",
+    "category": "Drinks",
+    "original_category": "Drinks Prontos",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Champanhe Aviva Gold",
+    "category": "Outros",
+    "original_category": "Variados",
+    "selling_price": 100.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Champanhe Aviva Blue",
+    "category": "Outros",
+    "original_category": "Variados",
+    "selling_price": 100.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Gemma Di Luna Moscato",
+    "category": "Outros",
+    "original_category": "Variados",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Carvão 8kg",
+    "category": "Outros",
+    "original_category": "Variados",
+    "selling_price": 60.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Carvão 2kg",
+    "category": "Outros",
+    "original_category": "Variados",
+    "selling_price": 17.0,
+    "unit": "un",
+    "stock": 15
+  },
+  {
+    "name": "Chandon passion",
+    "category": "Outros",
+    "original_category": "Variados",
+    "selling_price": 95.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Carvão 4kg",
+    "category": "Outros",
+    "original_category": "Variados",
+    "selling_price": 32.0,
+    "unit": "un",
+    "stock": 16
+  },
+  {
+    "name": "Vodka - Garrafa",
+    "category": "Destilados",
+    "original_category": "Whisky, Vodka, Gin e Licor",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Gin - Combo ou Garrafa",
+    "category": "Destilados",
+    "original_category": "Whisky, Vodka, Gin e Licor",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Vodka - Combo",
+    "category": "Destilados",
+    "original_category": "Whisky, Vodka, Gin e Licor",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Whisky - Combo",
+    "category": "Destilados",
+    "original_category": "Whisky, Vodka, Gin e Licor",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Licor - Combo ou Garrafa",
+    "category": "Destilados",
+    "original_category": "Whisky, Vodka, Gin e Licor",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Whisky - Garrafa",
+    "category": "Destilados",
+    "original_category": "Whisky, Vodka, Gin e Licor",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Cerveja Lata (unidade)",
+    "category": "Cervejas",
+    "original_category": "Cervejas",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Cerveja Pack (caixinha)",
+    "category": "Cervejas",
+    "original_category": "Cervejas",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Cerveja Long Neck (unidade)",
+    "category": "Cervejas",
+    "original_category": "Cervejas",
+    "selling_price": 0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Don Luiz 750ml",
+    "category": "Promocoes",
+    "original_category": "Promoção da Semana",
+    "selling_price": 80.0,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Caipirinha de Seriguela",
+    "category": "Promocoes",
+    "original_category": "Promoção da Semana",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Gota De Cristal Ice Maçã",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Gota De Cristal Blueberry",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Gota de Cristal Gelo De Agua",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 11
+  },
+  {
+    "name": "Gota de Cristal Maracujá",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 18
+  },
+  {
+    "name": "Gota de Cristal Melancia",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Gota de Cristal Frutas Tropicais",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 14
+  },
+  {
+    "name": "Gota de Cristal Morango",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 24
+  },
+  {
+    "name": "Gota de Cristal Ice Coco",
+    "category": "Drinks",
+    "original_category": "Gota De Cristal Ice (Copo com Gelo)",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 18
+  },
+  {
+    "name": "Mansão Maromba Whisky Puro 750ml",
+    "category": "Energeticos",
+    "original_category": "SABOOR ENERGÉTICO Mansão Maromba",
+    "selling_price": 35.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Mansão Maromba Whisky",
+    "category": "Energeticos",
+    "original_category": "SABOOR ENERGÉTICO Mansão Maromba",
+    "selling_price": 16.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Mansão Maromba Double Darkness",
+    "category": "Energeticos",
+    "original_category": "SABOOR ENERGÉTICO Mansão Maromba",
+    "selling_price": 16.0,
+    "unit": "un",
+    "stock": 45
+  },
+  {
+    "name": "Mansão Maromba Job",
+    "category": "Energeticos",
+    "original_category": "SABOOR ENERGÉTICO Mansão Maromba",
+    "selling_price": 16.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Mansão Maromba whisky  Sabor Cajuína",
+    "category": "Energeticos",
+    "original_category": "SABOOR ENERGÉTICO Mansão Maromba",
+    "selling_price": 16.0,
+    "unit": "un",
+    "stock": 51
+  },
+  {
+    "name": "Mini Jack Fire 50 ml",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Jack Daniel’s Mel 375ml",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 55.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Mini Cavalo Branco 500ml",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 40.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Kit Whisky Fireball",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 110.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Mini Absolut Lime",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Absolut Citron",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Absolut Baunilha",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini absolut Raspberry",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Absolut Melancia",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Jack Daniel’s Tradicional 375ml",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 55.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Mini Black Label 50 ml",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Chivas 12 anos 50 ml",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 18.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Kit Absolut Sabores",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 75.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Mini Red Label",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Vodka Belvedere",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Mini Beefeater gin 50 ml",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Kit Jack Gentleman",
+    "category": "Kits",
+    "original_category": "Kits & Mini Bebidas",
+    "selling_price": 220.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Halls cereja",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.5,
+    "unit": "un",
+    "stock": 27
+  },
+  {
+    "name": "Halls preto",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.5,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Doce bananinha tradição 35g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 17
+  },
+  {
+    "name": "Fini bananas",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 10
+  },
+  {
+    "name": "Trident canela",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 17
+  },
+  {
+    "name": "Fini Tutti-fruti 80g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Paçoca com chocolate",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 1.0,
+    "unit": "un",
+    "stock": 35
+  },
+  {
+    "name": "Fini Tubes Morango citrico 80g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Fini burguer",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Lobits Churrasco 200g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Lobits Requeijão 200g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Biscoito de polvilho",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 14
+  },
+  {
+    "name": "Cheetos Parmesão lua 95g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Fofura presunto",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Pirulito",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 0.5,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Tridente X Senses Melancia com menta 54g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Fofura queijo",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 11
+  },
+  {
+    "name": "Amendoim De Pimenta",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.5,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Halls uva verde",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.5,
+    "unit": "un",
+    "stock": 45
+  },
+  {
+    "name": "Batata point churrasco",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Halls menta",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.5,
+    "unit": "un",
+    "stock": 28
+  },
+  {
+    "name": "Halls melancia",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.5,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Amendoim Alho Panchito 20g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.5,
+    "unit": "un",
+    "stock": 27
+  },
+  {
+    "name": "Batata Point chips - Frango grelhado",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 17
+  },
+  {
+    "name": "Mentos Tutti frutti",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.5,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Fini Marshmallows Torção 80g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Trident X Citrus Mix",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Fofura cebola 70g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Snickers Tradicional",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.5,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Pé de Moça",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Fini Tubes uva citrica 80g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Batata Point chips - Cebola",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 14
+  },
+  {
+    "name": "Trident X Acid Berry",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Bis Xtra Branco 45g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Paçoquita de chocolate",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Doce Beijo com Chocolate",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Trident tutti-frutti",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Mini Oreo 35g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Fruit-tella Morango 92g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Trident Intense",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Trident morango",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Trident Melancia",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Trident Max Hortelã",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Mentos Frutas Vermelhas",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.5,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Doce de abobora 65g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Paçoquita",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 1.5,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Fini Tubes Arco-íris",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Fini Ursinhos 80g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 10
+  },
+  {
+    "name": "Trident Herbal",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 13
+  },
+  {
+    "name": "Trident cereja",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Trident X Senses Menta 54g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Fini dentaduras",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Halls morango",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.5,
+    "unit": "un",
+    "stock": 14
+  },
+  {
+    "name": "Amendoim Panchito 20g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.5,
+    "unit": "un",
+    "stock": 27
+  },
+  {
+    "name": "Salgadinho Ebicen Cebola 30g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.5,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Lacta Chocolate ao Leite C/ Caramelo 104g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Lacta Branco C/ Caramelo 104g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Choco Biscuit Branco Bauducco",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 8.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Trident Max Framboesa",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Trident X Senses Morango Com Limão 54g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Fandangos 105g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Fini minhocas gelatina",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Doce De Leite 51g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 13
+  },
+  {
+    "name": "Fini beijos",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Trident menta verde",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Fini minhocas cítricas",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Batata point natural",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 19
+  },
+  {
+    "name": "Fini Salada De Frutas 14g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.0,
+    "unit": "un",
+    "stock": 10
+  },
+  {
+    "name": "Fini Aros Morango 80g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 14
+  },
+  {
+    "name": "Paçoca com chocolate branco",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 1.0,
+    "unit": "un",
+    "stock": 84
+  },
+  {
+    "name": "Doce de leite com chocolate 51g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 25
+  },
+  {
+    "name": "Mentos Mint",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.5,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Bombons Sortidos - unidade",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 2.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Trident Max Menta e Blueberry",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 9
+  },
+  {
+    "name": "Kit kat preto",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 70
+  },
+  {
+    "name": "Pringles Marguerita",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Pringles Queijo",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Pringles Cebola",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Trident hortelã",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 24
+  },
+  {
+    "name": "Trident X Senses 54g",
+    "category": "Salgadinhos",
+    "original_category": "Doces e salgadinhos",
+    "selling_price": 13.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Coca 200ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 13
+  },
+  {
+    "name": "Coca Cola 600ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 22
+  },
+  {
+    "name": "Fanta uva lata",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Del valle maracujá 1L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.5,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Refrigerante convenção guaraná",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 10
+  },
+  {
+    "name": "Agua sem gás",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 390
+  },
+  {
+    "name": "Del valle uva 290 ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Convenção Laranja 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Convenção Uva 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Convenção Limão 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 6.5,
+    "unit": "un",
+    "stock": 11
+  },
+  {
+    "name": "Coca cola 350ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 149
+  },
+  {
+    "name": "Schweppes 350ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 8
+  },
+  {
+    "name": "Del Valle 1L Manga",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.5,
+    "unit": "un",
+    "stock": 2
+  },
+  {
+    "name": "Guaraná Zero 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 11.0,
+    "unit": "un",
+    "stock": 10
+  },
+  {
+    "name": "Coca cola 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 131
+  },
+  {
+    "name": "Dolly guaraná 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 58
+  },
+  {
+    "name": "Fanta Uva 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Del valle pêssego 290 ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Suco Sufresh Morango 1lt",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 12
+  },
+  {
+    "name": "Suco Sufresh Morango 269ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Fanta laranja lata",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 11
+  },
+  {
+    "name": "Fanta laranja 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.0,
+    "unit": "un",
+    "stock": 15
+  },
+  {
+    "name": "Guaraná lata 350ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 97
+  },
+  {
+    "name": "Agua c/ gás",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 24
+  },
+  {
+    "name": "Sprite 350ml lata",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Fanta laranja 600ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Del Valle 1,5L Uva",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 1
+  },
+  {
+    "name": "Agua saborizada Limão",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Agua Saborizada Melancia",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Agua Saborizada Tangerina",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "H2OH Limão",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 14
+  },
+  {
+    "name": "Del valle pêssego 1L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.5,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Del valle maracujá lata",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Del valle manga 290 ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 5.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Del valle uva 1L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.5,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Del Valle Limão 1,5L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Del Valle Limonada Tropical Lata",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 6.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Del Valle Manga e Morango 1l",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Del Valle Abacaxi e Tangerina 1l",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 12.0,
+    "unit": "un",
+    "stock": 7
+  },
+  {
+    "name": "Del Valle Limonada Lata",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 6.0,
+    "unit": "un",
+    "stock": 5
+  },
+  {
+    "name": "Fanta Laranja Retornável 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 9.0,
+    "unit": "un",
+    "stock": 16
+  },
+  {
+    "name": "Agua saborizada Frutas vermelhas",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 4.0,
+    "unit": "un",
+    "stock": 6
+  },
+  {
+    "name": "Del valle Limonada Pink Lata",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 6.0,
+    "unit": "un",
+    "stock": 4
+  },
+  {
+    "name": "Coca cola retornável 2L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 9.0,
+    "unit": "un",
+    "stock": 41
+  },
+  {
+    "name": "Sprite 200ml",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 3.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Del Valle Laranja 1,5L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 7.0,
+    "unit": "un",
+    "stock": 3
+  },
+  {
+    "name": "Guaraná 2,5L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 11.5,
+    "unit": "un",
+    "stock": 20
+  },
+  {
+    "name": "Agua de coco 1 litro",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 10.5,
+    "unit": "un",
+    "stock": 20
+  },
+  {
+    "name": "Agua 1,5L",
+    "category": "Bebidas Nao Alcoolicas",
+    "original_category": "Sucos e Refrigerantes",
+    "selling_price": 4.5,
+    "unit": "un",
+    "stock": 26
+  },
+  {
+    "name": "Caipirinha de Absolut",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 35.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Caipirinha Sem Álcool",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 15.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Caipirinha de Askov",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 16.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Batida de Absolut",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 40.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Batida de Smirnoff",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Batida de Velho Barreiro",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Caipirinha de Velho Barreiro",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 16.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Caipirinha de Jurupinga",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Espanhola",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 30.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Caipirinha de Smirnoff",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Batida de Askov",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Batida de Saque",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Caipirinha de Saque",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 25.0,
+    "unit": "un",
+    "stock": 0
+  },
+  {
+    "name": "Batida Sem Álcool - Feita com leite",
+    "category": "Drinks",
+    "original_category": "Caipirinhas e Batidas",
+    "selling_price": 20.0,
+    "unit": "un",
+    "stock": 0
+  }
+]
