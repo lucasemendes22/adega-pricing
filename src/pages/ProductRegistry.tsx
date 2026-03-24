@@ -129,17 +129,27 @@ export function ProductRegistry() {
                     <td className="px-5 py-3 text-text font-medium">{p.name}</td>
                     <td className="px-5 py-3 text-text-secondary">{p.category}</td>
                     <td className="px-5 py-3 text-text-secondary">{p.supplier}</td>
-                    <td className="px-5 py-3 text-right font-mono text-text-secondary">{formatCurrency(p.costPrice)}</td>
+                    <td className="px-5 py-3 text-right font-mono text-text-secondary">
+                      {p.costPrice > 0 ? formatCurrency(p.costPrice) : (
+                        <span className="text-amber text-xs font-sans">Sem custo</span>
+                      )}
+                    </td>
                     <td className="px-5 py-3 text-right font-mono text-text font-medium">{formatCurrency(p.sellingPrice)}</td>
                     <td className={`px-5 py-3 text-right font-mono font-semibold ${isBelow ? 'text-rose' : 'text-emerald'}`}>
                       {formatPercent(breakdown.netMarginPercent)}
                     </td>
                     <td className="px-5 py-3 text-center">
-                      <span className={`inline-flex px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider ${
-                        isBelow ? 'bg-rose/10 text-rose' : 'bg-emerald/10 text-emerald'
-                      }`}>
-                        {isBelow ? 'Abaixo' : 'OK'}
-                      </span>
+                      {p.costPrice <= 0 && p.sellingPrice > 0 ? (
+                        <span className="inline-flex px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider bg-amber/10 text-amber">
+                          Sem Custo
+                        </span>
+                      ) : (
+                        <span className={`inline-flex px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider ${
+                          isBelow ? 'bg-rose/10 text-rose' : 'bg-emerald/10 text-emerald'
+                        }`}>
+                          {isBelow ? 'Abaixo' : 'OK'}
+                        </span>
+                      )}
                     </td>
                     <td className="px-5 py-3 text-center">
                       {p.isAutoPrice ? (

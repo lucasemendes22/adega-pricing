@@ -85,6 +85,9 @@ export function calculateSellingPrice(
   return adjustedCost / markupDivisor;
 }
 
+// Distribui custos fixos proporcionalmente pela receita do produto
+// Quem vende mais caro absorve mais custo fixo (metodo mais justo)
+// Formula: fixedCostAlloc = (sellingPrice / faturamentoMensal) * totalCustosFixos
 export function calculateMarginBreakdown(
   product: Product,
   config: BusinessConfig
@@ -101,9 +104,11 @@ export function calculateMarginBreakdown(
   const contributionMargin = revenue - costOfGoods - taxes - variableCosts - paymentFees;
   const contributionMarginPercent = revenue > 0 ? (contributionMargin / revenue) * 100 : 0;
 
+  // Custo fixo proporcional: % da receita mensal que este produto representa
+  const totalFixed = getTotalFixedCosts(config);
   const fixedCostAllocation =
-    config.estimatedMonthlyUnitsSold > 0
-      ? getTotalFixedCosts(config) / config.estimatedMonthlyUnitsSold
+    config.estimatedMonthlySales > 0
+      ? (revenue / config.estimatedMonthlySales) * totalFixed
       : 0;
 
   const netProfit = contributionMargin - fixedCostAllocation;

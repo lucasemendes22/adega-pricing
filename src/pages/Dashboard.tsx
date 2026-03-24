@@ -42,12 +42,17 @@ export function Dashboard() {
       ? breakdowns.reduce((s, b) => s + b.breakdown.netMarginPercent * (b.breakdown.revenue / totalRevenue), 0)
       : 0;
 
-    const belowTarget = breakdowns.filter((b) => {
+    // Apenas considerar produtos com preco > 0 para alertas de margem
+    const productsWithPrice = breakdowns.filter((b) => b.product.sellingPrice > 0);
+
+    const belowTarget = productsWithPrice.filter((b) => {
       const target = getTargetMargin(config, b.product.category) * 100;
       return b.breakdown.netMarginPercent < target;
     });
 
-    const estimatedProfit = breakdowns.reduce((s, b) => s + b.breakdown.netProfit, 0);
+    const withoutCost = products.filter((p) => p.costPrice <= 0 && p.sellingPrice > 0);
+
+    const estimatedProfit = productsWithPrice.reduce((s, b) => s + b.breakdown.netProfit, 0);
 
     const categoryData = Object.values(ProductCategory).map((cat) => {
       const catProducts = breakdowns.filter((b) => b.product.category === cat);
@@ -59,13 +64,13 @@ export function Dashboard() {
       return { name: cat, margin: Number(avgMargin.toFixed(1)), target: Number(target.toFixed(1)), revenue: catRevenue, count: catProducts.length };
     });
 
-    return { totalRevenue, weightedMargin, belowTarget, estimatedProfit, categoryData, breakdowns };
+    return { totalRevenue, weightedMargin, belowTarget, withoutCost, estimatedProfit, categoryData, breakdowns };
   }, [config, products]);
 
   const kpis = [
     { label: 'Total Produtos', value: products.length.toString(), icon: Package, color: 'text-sky' },
     { label: 'Margem Media', value: formatPercent(analysis.weightedMargin), icon: TrendingUp, color: analysis.weightedMargin >= 0 ? 'text-emerald' : 'text-rose' },
-    { label: 'Abaixo da Meta', value: analysis.belowTarget.length.toString(), icon: AlertTriangle, color: analysis.belowTarget.length > 0 ? 'text-rose' : 'text-emerald' },
+    { label: 'Sem Custo Cadastrado', value: analysis.withoutCost.length.toString(), icon: AlertTriangle, color: analysis.withoutCost.length > 0 ? 'text-amber' : 'text-emerald' },
     { label: 'Lucro Est./Produto', value: formatCurrency(analysis.estimatedProfit / (products.length || 1)), icon: DollarSign, color: 'text-gold-400' },
   ];
 
@@ -86,6 +91,22 @@ export function Dashboard() {
           </div>
         ))}
       </div>
+
+      {/* Warning: products without cost */}
+      {analysis.withoutCost.length > 0 && (
+        <div className="bg-amber/5 border border-amber/20 rounded-xl p-4 flex items-start gap-3">
+          <AlertTriangle size={18} className="text-amber mt-0.5 shrink-0" />
+          <div>
+            <p className="text-sm font-semibold text-text">
+              {analysis.withoutCost.length} produto(s) sem custo cadastrado
+            </p>
+            <p className="text-xs text-text-secondary mt-1">
+              A margem desses produtos esta imprecisa. Cadastre o preco de custo (compra do fornecedor) ou o custo dos ingredientes para producao propria.
+              Os custos fixos da empresa (R$ {formatCurrency(config.fixedCosts.reduce((s: number, c: {monthlyCost: number}) => s + c.monthlyCost, 0)).replace('R$\u00a0', '')}/mes) sao distribuidos proporcionalmente pela receita de cada produto.
+            </p>
+          </div>
+        </div>
+      )}
 
       {/* Charts */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
