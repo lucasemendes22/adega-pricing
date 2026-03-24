@@ -215,7 +215,7 @@ export function NewProductCalculator() {
             className={`w-full flex items-center justify-center gap-2 py-3 rounded-xl text-sm font-semibold transition-all ${
               added
                 ? 'bg-emerald/20 text-emerald border border-emerald/30'
-                : 'bg-gold-400 hover:bg-gold-500 text-bg'
+                : 'bg-gold-400 hover:bg-gold-500 text-white'
             }`}
           >
             {added ? (

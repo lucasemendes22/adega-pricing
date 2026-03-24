@@ -98,9 +98,9 @@ export function Dashboard() {
               <XAxis dataKey="name" tick={{ fontSize: 11 }} />
               <YAxis tick={{ fontSize: 11 }} />
               <Tooltip
-                contentStyle={{ background: '#15151e', border: '1px solid #232330', borderRadius: 8, fontSize: 12, fontFamily: 'DM Sans' }}
-                labelStyle={{ color: '#eeeef2', fontWeight: 600 }}
-                itemStyle={{ color: '#8e8ea0' }}
+                contentStyle={{ background: '#ffffff', border: '1px solid #e0e0e6', borderRadius: 8, fontSize: 12, fontFamily: 'Montserrat', boxShadow: '0 4px 12px rgba(0,0,0,0.08)' }}
+                labelStyle={{ color: '#1a1a2e', fontWeight: 600 }}
+                itemStyle={{ color: '#6b6b80' }}
               />
               <Bar dataKey="margin" name="Margem Real" fill="#d4a843" radius={[4, 4, 0, 0]} />
               <Bar dataKey="target" name="Meta" fill="#722f37" radius={[4, 4, 0, 0]} opacity={0.6} />
@@ -122,14 +122,14 @@ export function Dashboard() {
                 innerRadius={55}
                 outerRadius={90}
                 strokeWidth={2}
-                stroke="#0e0e14"
+                stroke="#ffffff"
               >
                 {analysis.categoryData.filter((d) => d.revenue > 0).map((entry) => (
                   <Cell key={entry.name} fill={CATEGORY_COLORS[entry.name] || '#555'} />
                 ))}
               </Pie>
               <Tooltip
-                contentStyle={{ background: '#15151e', border: '1px solid #232330', borderRadius: 8, fontSize: 12, fontFamily: 'DM Sans' }}
+                contentStyle={{ background: '#ffffff', border: '1px solid #e0e0e6', borderRadius: 8, fontSize: 12, fontFamily: 'Montserrat', boxShadow: '0 4px 12px rgba(0,0,0,0.08)' }}
                 formatter={(value) => formatCurrency(Number(value))}
               />
             </PieChart>

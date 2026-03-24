@@ -77,8 +77,8 @@ export function MarginAnalysis() {
             <XAxis dataKey="name" tick={{ fontSize: 11 }} />
             <YAxis tick={{ fontSize: 11 }} unit="%" />
             <Tooltip
-              contentStyle={{ background: '#15151e', border: '1px solid #232330', borderRadius: 8, fontSize: 12, fontFamily: 'DM Sans' }}
-              labelStyle={{ color: '#eeeef2', fontWeight: 600 }}
+              contentStyle={{ background: '#ffffff', border: '1px solid #e0e0e6', borderRadius: 8, fontSize: 12, fontFamily: 'Montserrat', boxShadow: '0 4px 12px rgba(0,0,0,0.08)' }}
+              labelStyle={{ color: '#1a1a2e', fontWeight: 600 }}
             />
             <Legend wrapperStyle={{ fontSize: 12, fontFamily: 'DM Sans' }} />
             <Bar dataKey="margem" name="Margem Real" fill="#d4a843" radius={[4, 4, 0, 0]} />

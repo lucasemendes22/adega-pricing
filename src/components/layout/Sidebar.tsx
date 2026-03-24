@@ -41,7 +41,7 @@ export function Sidebar({ activeTab, onTabChange, isOpen, onToggle }: SidebarPro
       {/* Overlay */}
       {isOpen && (
         <div
-          className="fixed inset-0 bg-black/60 z-30 lg:hidden"
+          className="fixed inset-0 bg-black/30 z-30 lg:hidden"
           onClick={onToggle}
         />
       )}
@@ -61,7 +61,7 @@ export function Sidebar({ activeTab, onTabChange, isOpen, onToggle }: SidebarPro
         <div className="p-6 border-b border-border">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center shadow-lg shadow-gold-500/10">
-              <Wine size={20} className="text-bg" />
+              <Wine size={20} className="text-white" />
             </div>
             <div>
               <h1 className="font-display text-lg font-bold text-text leading-tight">

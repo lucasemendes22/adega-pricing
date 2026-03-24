@@ -96,7 +96,7 @@ export function ProductRegistry() {
               className="w-full bg-surface-el border border-border rounded-lg py-2 pl-9 pr-3 text-sm text-text placeholder-text-muted focus:outline-none focus:border-gold-500/50 transition-colors"
             />
           </div>
-          <button onClick={openNew} className="flex items-center gap-1.5 bg-gold-400 hover:bg-gold-500 text-bg px-4 py-2 rounded-lg text-sm font-semibold transition-colors whitespace-nowrap">
+          <button onClick={openNew} className="flex items-center gap-1.5 bg-gold-400 hover:bg-gold-500 text-white px-4 py-2 rounded-lg text-sm font-semibold transition-colors whitespace-nowrap">
             <Plus size={14} /> Novo Produto
           </button>
         </div>
@@ -178,7 +178,7 @@ export function ProductRegistry() {
 
       {/* Delete Confirmation */}
       {confirmDelete && (
-        <div className="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4" onClick={() => setConfirmDelete(null)}>
+        <div className="fixed inset-0 bg-black/30 z-50 flex items-center justify-center p-4" onClick={() => setConfirmDelete(null)}>
           <div className="bg-surface-el border border-border rounded-xl p-6 w-full max-w-sm space-y-4" onClick={(e) => e.stopPropagation()}>
             <h3 className="font-display text-lg font-semibold text-text">Confirmar Exclusao</h3>
             <p className="text-sm text-text-secondary">Tem certeza que deseja excluir este produto?</p>
@@ -199,7 +199,7 @@ export function ProductRegistry() {
 
       {/* Add/Edit Modal */}
       {showModal && (
-        <div className="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4" onClick={() => setShowModal(false)}>
+        <div className="fixed inset-0 bg-black/30 z-50 flex items-center justify-center p-4" onClick={() => setShowModal(false)}>
           <div className="bg-surface border border-border rounded-xl w-full max-w-lg overflow-hidden" onClick={(e) => e.stopPropagation()}>
             <div className="flex items-center justify-between px-5 py-4 border-b border-border">
               <h3 className="font-display text-lg font-semibold text-text">
@@ -293,7 +293,7 @@ export function ProductRegistry() {
               <button onClick={() => setShowModal(false)} className="px-4 py-2 rounded-lg text-sm text-text-secondary border border-border hover:bg-surface-hover transition-colors">
                 Cancelar
               </button>
-              <button onClick={handleSave} className="px-5 py-2 rounded-lg text-sm bg-gold-400 hover:bg-gold-500 text-bg font-semibold transition-colors">
+              <button onClick={handleSave} className="px-5 py-2 rounded-lg text-sm bg-gold-400 hover:bg-gold-500 text-white font-semibold transition-colors">
                 {editingId ? 'Salvar' : 'Adicionar'}
               </button>
             </div>

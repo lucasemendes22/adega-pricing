@@ -136,7 +136,7 @@ export function PriceSimulator() {
             onChange={(e) => setAdjustValue(Number(e.target.value))}
             className="w-full h-2 rounded-full appearance-none cursor-pointer"
             style={{
-              background: `linear-gradient(to right, #722f37 0%, #722f37 ${((adjustValue - (adjustType === 'percentage' ? -30 : -50)) / (adjustType === 'percentage' ? 80 : 150)) * 100}%, #232330 ${((adjustValue - (adjustType === 'percentage' ? -30 : -50)) / (adjustType === 'percentage' ? 80 : 150)) * 100}%, #232330 100%)`,
+              background: `linear-gradient(to right, #9a7a24 0%, #9a7a24 ${((adjustValue - (adjustType === 'percentage' ? -30 : -50)) / (adjustType === 'percentage' ? 80 : 150)) * 100}%, #e0e0e6 ${((adjustValue - (adjustType === 'percentage' ? -30 : -50)) / (adjustType === 'percentage' ? 80 : 150)) * 100}%, #e0e0e6 100%)`,
             }}
           />
           <div className="flex justify-between text-[10px] text-text-muted mt-1">

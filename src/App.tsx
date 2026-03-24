@@ -21,7 +21,7 @@ function AppContent() {
       <div className="min-h-screen bg-bg flex items-center justify-center">
         <div className="text-center animate-fade-in">
           <div className="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center shadow-lg shadow-gold-500/20 mb-4">
-            <Wine size={28} className="text-bg" />
+            <Wine size={28} className="text-white" />
           </div>
           <p className="text-text-secondary text-sm">Carregando dados...</p>
         </div>
